@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A single column manometer is connected to a pipe containing liquid of specific gravity 0.8 as shown in the figure. If the ratio of area of Manometer to the area of reservior is 1/93. The Manometer fluid is mercury. Find the pressure in the pipe. Take the values of h1 = 21 cm, h2 = 45 cm. Refer the figure in the simulator",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "54878.82 N/m<sup>2</sup>",
+        "b": "58996.71 N/m<sup>2</sup>",
+        "c": "62997.22 N/m<sup>2</sup>",
+        "d": "71298.11 N/m<sup>2</sup>"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A single column manometer is connected to a pipe containing liquid of specific gravity 0.8 as shown in the figure. If the ratio of area of Manometer to the area of reservior is 1/106. The Manometer fluid is mercury. Find the pressure in the pipe. Take the values of h1 = 21 cm, h2 = 40 cm. Refer the figure in the simulator.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "51768.21 N/m<sup>2</sup>",
+        "b": "63412.11 N/m<sup>2</sup>",
+        "c": "42769.89 N/m<sup>2</sup>",
+        "d": "52192.16 N/m<sup>2</sup>"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
