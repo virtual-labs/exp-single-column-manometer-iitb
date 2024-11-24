@@ -11,7 +11,7 @@
 <h3> 1. Vertical Single Column Manometer</h3>
 <br>
 
-<img src="./lab-manual/images/VerticalSingleColumnManometer.png"  style="width:40%; margin-left:30%;" >
+<img src="./images/VerticalSingleColumnManometer.png"  style="width:40%; margin-left:30%;" >
 
 $$ Fig.\ 1.\ Vertical\ \ Single\ \ Column\ \ Manometer  $$
 
@@ -62,7 +62,7 @@ $$ Then \qquad p_A = h_2\rho_2g  - h_1\rho_1g \qquad \qquad \qquad ...equ(3) $$
 <h3> 2. Inclined Single Column Manometer</h3>
 <br>
 
-<img src="./lab-manual/images/InclinedSingleColumn.png" style="width:40%; margin-left:30%;" >
+<img src="./images/InclinedSingleColumn.png" style="width:40%; margin-left:30%;" >
 
 $$ Fig.\ 2.\ Inclined\ \ Single\ \ Column\ \ Manometer  $$
 
