@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Single column manometer is used to measure",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Vacuum Pressure",
+        "b": "Absolute Pressure",
+        "c": "Mechanical Pressure",
+        "d": "Gauge Pressure"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Pressure measured by Single column manometer is given by if reservoir area is very large",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "&rho;*g/h<sub>2</sub>",
+        "b": "&rho;<sub>2</sub>* g*h<sub>2</sub> - &rho;<sub>1</sub> * g*h<sub>1</sub>",
+        "c": "&rho;<sub>1</sub>* g*h<sub>1</sub> - &rho;<sub>2</sub> * g*h<sub>2</sub>",
+        "d": "g*h<sub>1</sub>"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
