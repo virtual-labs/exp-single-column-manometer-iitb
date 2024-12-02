@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "A single column manometer is connected to a pipe containing liquid of specific gravity 0.8 as shown in the figure. If the ratio of area of Manometer to the area of reservior is 1/93. The Manometer fluid is mercury. Find the pressure in the pipe. Take the values of h1 = 21 cm, h2 = 45 cm. Refer the figure in the simulator.",
+        "qid": 1,
+        "option_a": "54878.82 N/m<sup>2</sup>",
+        "option_b": "58996.71 N/m<sup>2</sup>",
+        "option_c": "62997.22 N/m<sup>2</sup>",
+        "option_d": "71298.11 N/m<sup>2</sup>",
+        "correct_option": "b"
+    },
+    {
+        "question": "A single column manometer is connected to a pipe containing liquid of specific gravity 0.8 as shown in the figure. If the ratio of area of Manometer to the area of reservior is 1/106. The Manometer fluid is mercury. Find the pressure in the pipe. Take the values of h1 = 21 cm, h2 = 40 cm. Refer the figure in the simulator.",
+        "qid": 2,
+        "option_a": "51768.21 N/m<sup>2</sup>",
+        "option_b": "63412.11 N/m<sup>2</sup>",
+        "option_c": "42769.89 N/m<sup>2</sup>",
+        "option_d": "52192.16 N/m<sup>2</sup>",
+        "correct_option": "d"
+    }
+]
