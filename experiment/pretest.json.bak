@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Single column manometer is used to measure",
+        "qid": 1,
+        "option_a": "Vacuum Pressure",
+        "option_b": "Absolute Pressure",
+        "option_c": "Mechanical Pressure",
+        "option_d": "Gauge Pressure",
+        "correct_option": "d"
+    },
+    {
+        "question": "Pressure measured by Single column manometer is given by if reservoir area is very large",
+        "qid": 2,
+        "option_a": "&rho;*g/h<sub>2</sub>",
+        "option_b": "&rho;<sub>2</sub>* g*h<sub>2</sub> - &rho;<sub>1</sub> * g*h<sub>1</sub>",
+        "option_c": "&rho;<sub>1</sub>* g*h<sub>1</sub> - &rho;<sub>2</sub> * g*h<sub>2</sub>",
+        "option_d": "g*h<sub>1</sub>",
+        "correct_option": "b"
+    }
+]
